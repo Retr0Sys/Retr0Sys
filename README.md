@@ -6,7 +6,6 @@
 ### 🚀 Tech Enthusiast | 🔐 Cybersecurity Explorer | 💻 Computer Science | </> FullStack dev (On going) | 📈 accounting 
 
 [![GitHub followers](https://img.shields.io/github/followers/Retr0Sys?style=social)](https://github.com/Retr0Sys)
-[![Profile Views](https://visitcount.itsvg.in/api?id=Retr0Sys&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 
