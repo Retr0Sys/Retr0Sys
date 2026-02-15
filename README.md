@@ -26,7 +26,7 @@ const thiago = {
 
 ### 🎯 What I Do
 
-- 🎓 **Computer Science Education Student** - Building strong foundations in software development
+- 🎓 **Computer Science Education Student** - Building strong foundations in software development and learning how to teach :')
 - 🔧 **PC Repair & Maintenance Technician** - Hardware meets software
 - 💼 **Accounting Administrative Assistant** - Where tech meets business
 - 🛡️ **Cybersecurity Enthusiast** - Exploring the world of digital security
