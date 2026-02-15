@@ -112,6 +112,9 @@ When I'm not coding, you'll find me:
 ---
 
 **Happy Coding, Peace ✌️**
+
+---
+
 **Made with 💙 and lots of ☕**
 
 </div>
