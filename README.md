@@ -13,7 +13,7 @@
 
 ## 🌟 About Me
 
-I'm passionate about technology, innovation, and building solutions that matter. Currently diving deep into computer science while exploring the fascinating world of cybersecurity. Always learning, always building.
+I'm passionate about technology, innovation, and empowering others through education. As a computer science educator, I bridge the gap between learning and teaching, diving deep into cybersecurity while helping others discover their potential in tech. Always learning, always sharing, always building.
 
 ```javascript
 const thiago = {
