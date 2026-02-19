@@ -13,7 +13,7 @@
 
 ## 🌟 Sobre mí
 
-Soy apasionado por la tecnología, la innovación y el empoderamiento de otros a través de la educación. Como estudiante de informática, busco tender puentes entre el aprendizaje y la enseñanza, profundizando en ciberseguridad mientras ayudo a otros a descubrir su potencial en el mundo tech. Siempre aprendiendo, siempre compartiendo, siempre construyendo.
+Soy apasionado por la tecnología, la innovación y el desarrollo de otros a través de la educación. Como estudiante de Profesorado en informática, busco tender puentes entre el aprendizaje y la enseñanza, profundizando en ciberseguridad mientras ayudo a otros a descubrir su potencial en el mundo tech. Siempre aprendiendo, siempre compartiendo, siempre construyendo.
 
 ```javascript
 const thiago = {
@@ -26,7 +26,7 @@ const thiago = {
 
 ### 🎯 ¿Qué hago?
 
-- 🎓 **Estudiante de Educación en Informática** — Construyendo bases sólidas en desarrollo de software y aprendiendo a enseñar :')
+- 🎓 **Estudiante de Profesorado en Informática** — Construyendo bases sólidas en desarrollo de software y aprendiendo a enseñar :')
 - 🔧 **Técnico en Reparación y Mantenimiento de PCs** — Donde el hardware se encuentra con el software
 - 💼 **Auxiliar Administrativo Contable** — Donde la tecnología se conecta con los negocios
 - 🛡️ **Entusiasta de la Ciberseguridad** — Explorando el mundo de la seguridad digital
@@ -89,7 +89,7 @@ Cuando no estoy programando, me podés encontrar:
 
 - 🎮 Jugando en **PlayStation** y **Steam**
 - 🏎️ Corriendo por mundos virtuales
-- 🔧 Experimentando con hardware (¡fanático de AMD!)
+- 🔧 Experimentando con hardware (¡Fanático de AMD!)
 - 📚 Leyendo sobre lo último en tecnología y algo de filosofía
 - 🌱 Creciendo un commit a la vez
 
