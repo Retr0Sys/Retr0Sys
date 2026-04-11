@@ -138,8 +138,4 @@ Cuando no estoy programando, me podés encontrar:
 
 **¡Feliz programación, paz! ✌️**
 
----
-
-**Hecho con 💙 y mucho 🧉**
-
 </div>
