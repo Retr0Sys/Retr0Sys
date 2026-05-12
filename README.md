@@ -95,15 +95,6 @@ const thiago = {
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-### 🏆 Repositorios con Mayor Contribución
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=Retr0Sys&limit=5&theme=prussian&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
 ## 🎮 Más allá del código
 
 Cuando no estoy programando, me podés encontrar:
