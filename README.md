@@ -97,10 +97,6 @@ const thiago = {
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Retr0Sys&theme=prussian&hide_border=false)
-
 ### 🏆 Repositorios con Mayor Contribución
 ![Top Contributions](https://github-contributor-stats.vercel.app/api?username=Retr0Sys&limit=5&theme=prussian&combine_all_yearly_contributions=true)
 
